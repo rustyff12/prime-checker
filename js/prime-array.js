@@ -1,0 +1,1 @@
+// Function for going through an array of primes
